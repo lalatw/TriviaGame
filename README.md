@@ -50,7 +50,7 @@ https://lalatw.github.io/TriviaGame/
 # Learning points
 * Use javascript along with jQuery to add or change the desired behavior of web page.
 * Use jQuery click event to triger game start.
-* Apply setInte and setTimeout method to countdown or pause the game.
+* Apply setInterval and setTimeout method to countdown or pause the game.
 * Apply variables to store data values.
 * Apply "if, else" to specify conditional statements.
 
